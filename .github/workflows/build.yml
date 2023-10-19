@@ -117,6 +117,9 @@ jobs:
         with:
           name: docs
           path: artifacts
+      - uses: montudor/action-zip@v1
+        with:
+          args: unzip -qq ${{ env.ALGOLIA_ARTIFACT }}
       - name: Setup Pages
         uses: actions/configure-pages@v3
       - name: Upload artifact
