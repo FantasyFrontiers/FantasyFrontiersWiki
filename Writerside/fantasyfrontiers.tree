@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="fantasyfrontiers" name="Fantasy Frontiers"
+                  start-page="">
+
+    <toc-element topic="Overview.md"/>
+    <toc-element topic="legal.md">
+        <toc-element topic="privacy-policy.md"/>
+        <toc-element topic="tos.md"/>
+    </toc-element>
+</instance-profile>

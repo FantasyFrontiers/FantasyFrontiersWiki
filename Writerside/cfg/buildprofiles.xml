@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buildprofiles xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd"
+               xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+    <variables>
+        <header-logo>
+            icon.png
+        </header-logo>
+        <algolia-api-key>da6828a5f99efb871f577950ce792da5</algolia-api-key>
+        <algolia-id>JF7Z75Z39U</algolia-id>
+        <algolia-index>fantasyfrontiers</algolia-index>
+    </variables>
+
+    <build-profile instance="fantasyfrontiers">
+        <variables>
+            <noindex-content>false</noindex-content>
+        </variables>
+    </build-profile>
+
+
+    <footer>
+        <copyright>
+            Fantasy Frontiers 2023
+        </copyright>
+        <link href="https://github.com/FantasyFrontiers/FantasyFrontiers">Github</link>
+    </footer>
+</buildprofiles>
