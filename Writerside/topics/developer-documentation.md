@@ -4,6 +4,8 @@
 
 This section provides an overview of the project, its purpose, and objectives.
 
+> If you search for our JavaDocs/KtDocs head over to [our docs](https://docs.fantasyfrontiers.net/)
+
 ---
 
 ## Prerequisites
