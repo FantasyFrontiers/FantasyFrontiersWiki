@@ -10,4 +10,7 @@
         <toc-element topic="privacy-policy.md"/>
         <toc-element topic="tos.md"/>
     </toc-element>
+    <toc-element topic="developer-documentation.md">
+        <toc-element topic="contribution-guidelines.md"/>
+    </toc-element>
 </instance-profile>
