@@ -7,6 +7,7 @@ We love your input! We want to make contributing to this project as easy and tra
 - Proposing new features (and implement them if you want)
 - Becoming a maintainer
 - Help us translate on [Weblate](https://weblate.flawcra.cc/engage/fantasy-frontiers/)
+- Help us write this [wiki](https://github.com/FantasyFrontiers/FantasyFrontiersWiki)
 
 ## We Develop with Github
 We use github to host code, to track issues and feature requests, as well as accept pull requests.
