@@ -6,6 +6,10 @@
                   start-page="Overview.md">
 
     <toc-element topic="Overview.md"/>
+    <toc-element topic="game.md">
+        <toc-element topic="server-owners.md"/>
+        <toc-element topic="players-guide.md"/>
+    </toc-element>
     <toc-element topic="legal.md">
         <toc-element topic="privacy-policy.md"/>
         <toc-element topic="tos.md"/>
