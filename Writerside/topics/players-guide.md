@@ -21,7 +21,7 @@ This guide will teach you how to play Fantasy Frontiers, and how to use the bot'
 Each server has a main-hub channel. This channel is the main hub for the bot, where you can interact with most of the game's features through buttons and select menus.
 The main-game button is the `🎯 Start your fantasy jouney!` button.
 
-On the official server, the main-hub channel is called `📜-»-entry-point`.
+On the official server, the main-hub channel is called `📜-»-game-hub`.
 
 
 ##### Creating a Character
